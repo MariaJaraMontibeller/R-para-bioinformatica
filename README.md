@@ -40,7 +40,7 @@ library(car)
 <strong> Importar dados </strong> 
 
 ```r
-df1 <- read.csv(file = "/home/jara/Downloads/exercicio_1.csv" , header = TRUE, sep = ";")
+df1 <- read.csv(file = "/home/jara/Downloads/dia01.csv" , header = TRUE, sep = ";")
 head(df1)
 ```
 
